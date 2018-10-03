@@ -17,12 +17,12 @@ EJERCICIO 1
 
 El departamento de Recursos Humanos requiere crear sentencias SQL para insertar, actualizar y
 eliminar datos de empleados. Como prueba se utilizará la tabla Mis_Empleados antes de remitir las
-sentencias al departamento de Recursos Humanos*/
+sentencias al departamento de Recursos Humanos.*/
 
+--Con el siguiente codigo
 
 USE Human_Resources
 GO
-
 
 
 /*
