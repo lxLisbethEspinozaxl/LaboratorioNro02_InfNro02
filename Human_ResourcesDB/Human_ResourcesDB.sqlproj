@@ -79,5 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="LabNro02\ActividadNro01.sql" />
+    <None Include="LabNro02\ActividadNro02.sql" />
+    <None Include="LabNro02\ActividadNro03.sql" />
   </ItemGroup>
 </Project>
